@@ -1,4 +1,5 @@
 # Generative Adversarial Network (GAN) for Image Generation
+![GAN 100 Epochs](./results.gif)
 
 ## Overview
 
